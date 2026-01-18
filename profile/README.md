@@ -1,6 +1,13 @@
-<img src="/profile/T4n-OS.png" width="200">
+# T4n Company
 
-T4n OS is a GNU/Linux distribution based on Void Linux that focuses on balancing ease of use with complete user control. T4n OS uses a minimal, while adding some unique T4n OS configurations.
+> **"Dari Komunitas, Oleh Komunitas, Dan Untuk Komunitas"**
 
-- Learn more at https://t4n-company.github.io/t4n-os
-- Docs : https://t4n-company.github.io/t4n-os/doc/index.html
+## Tentang T4n Company
+
+**T4n Company** adalah kolektif teknologi berbasis komunitas yang berfokus pada pengembangan **open-source, Kemudahan, dan Transparan**.
+
+Kami bergerak berdasarkan kebutuhan nyata, keputusan teknis yang rasional, dan kerja kolaboratif tanpa hype.
+
+—
+
+**T4n Company**
