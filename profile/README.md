@@ -4,9 +4,9 @@
 
 ## Tentang T4n Company
 
-**T4n Company** adalah kolektif teknologi berbasis komunitas yang berfokus pada pengembangan **open-source, Kemudahan, dan Transparan**.
+**T4n Company** adalah kolektif teknologi berbasis komunitas yang berfokus pada pengembangan **Open-Source, Kemudahan, dan Transparan**.
 
-Kami bergerak berdasarkan kebutuhan nyata, keputusan teknis yang rasional, dan kerja kolaboratif tanpa hype.
+**Bangun** yang *dibutuhkan*, **Perbaiki** yang *rusak*.
 
 —
 
