@@ -1,5 +1,7 @@
 # T4n Company
 
+<img src="T4n-Company.png" width="200">
+
 > **"Dari Komunitas, Oleh Komunitas, Dan Untuk Komunitas"**
 
 ## Tentang T4n Company
